@@ -1,0 +1,9 @@
+transformers
+torch
+langchain
+accelerate
+bitsandbytes
+scipy
+deepspeed
+sentencepiece
+xformers
